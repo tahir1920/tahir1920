@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src ="./banner.png" />
+<!--   <img src ="./banner.png" /> -->
   
 </div>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://tahirmanz.web.app/)**
 
